@@ -15,3 +15,4 @@ body {
    font-weight: bold;
    color: #FFFFFF;
    }
+html, body, a, a:hover { cursor:url('http://www.snazzyspace.com/cursorsfolder/mickey-pointer.png'), auto !important; }
